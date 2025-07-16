@@ -1,0 +1,1 @@
+This folder contains the logic to train students on teacher logits. This code can be used by changing the student model. 
